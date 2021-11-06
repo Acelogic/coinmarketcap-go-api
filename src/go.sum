@@ -1,0 +1,6 @@
+github.com/TwinProduction/go-color v1.0.0 h1:8n59tqmLmt8jyRsY44RPy2ixPDDw0FcVoAhlYeyz3Jw=
+github.com/TwinProduction/go-color v1.0.0/go.mod h1:5hWpSyT+mmKPjCwPNEruBW5Dkbs/2PwOuU468ntEXNQ=
+github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
+github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/jamespearly/loggly v0.0.0-20210916012910-7f219cd27651 h1:vu2A+m3LO4NqINoudV9rt8K7KlQNXWvRF9u93wurRcs=
+github.com/jamespearly/loggly v0.0.0-20210916012910-7f219cd27651/go.mod h1:nsvBEjxR4pTLLz16KzrVyH+CFB6I3tv5eC06sZA+0uo=
