@@ -127,6 +127,8 @@ func search(w http.ResponseWriter, req *http.Request) {
 		return
 	}
 
+	
+
 	searchedDB := []DBitem{}
 
 	err := json.Unmarshal([]byte(generateAllDBJson()), &searchedDB)
